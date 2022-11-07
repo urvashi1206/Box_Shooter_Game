@@ -8,4 +8,4 @@ Box Shooter is a simple first person shooter game. For the development I have us
 6. After finishing the second level, the player can either restart the game or play the same level by shooting on the suitable texts.
 7. I have tried to implement animations, audios, textures to make the game more playful and exciting. 
 8. The coding language used is C#, and the platform used is Visual Studio 2019.
-9. To play the game check the build folder and click on the unity file of BoxShooter.
+9. To play the game check the link https://play.unity.com/mg/other/webgl-builds-267641
